@@ -1,7 +1,7 @@
 :root {
-  --text-color: #DBE4EF;
-  --card-front-color: #144480;
-  --card-back-color: #00F4BF;
+  --text-color: #7cd5d4;
+  --card-front-color: #4804f6;
+  --card-back-color: #f40000;
 }
 footer {
   background-color: black;
@@ -19,7 +19,7 @@ footer p {
 }
       
 body {
-  background:url(img/bg-desktop.webp);
+  background:url(img/plano-de-fundo-da-area-de-trabalho-moderno-vetor-de-desenho-geometrico-azul_53876-135923\ \(1\).avif);
   font-family: Bai Jamjuree;
 }
               
